@@ -1,0 +1,11 @@
+export {default as airbnb} from "./airbnb.svg";
+export {default as amazon} from "./amazon.svg";
+export {default as apple} from "./apple.svg";
+export {default as cocaCola} from "./coca-cola.svg";
+export {default as disney} from "./disney.svg";
+export {default as facebook} from "./facebook.svg";
+export {default as google} from "./google.svg";
+export {default as microsoft} from "./microsoft.svg";
+export {default as netflix} from "./netflix.svg";
+export {default as tesla} from "./tesla.svg";
+export {default as youtube} from "./youtube.svg";
